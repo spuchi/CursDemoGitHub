@@ -1,3 +1,3 @@
 # CursDemoGitHub
 
-O schimbare facuta local.
+Schimbare de pe server.
